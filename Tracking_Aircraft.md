@@ -43,7 +43,7 @@ In this guide I will walk through the setup and installation of drivers and soft
 
 <figure><img src="images/image (18).png" alt=""><figcaption></figcaption></figure>
 
-&#x20;4\. In the folder where `rtl1090a.zip` was extracted right click and select `paste`.&#x20;
+&#x20;4\. In the folder where `rtl1090a.zip` was extracted right click and select `Paste`.&#x20;
 
 <figure><img src="images/image (79).png" alt=""><figcaption></figcaption></figure>
 
