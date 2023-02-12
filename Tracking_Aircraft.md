@@ -13,15 +13,15 @@ In this guide I will walk through the setup and installation of drivers and soft
 2. Download and run the file [https://www.nooelec.com/store/downloads/dl/file/id/56/product/204/nesdr\_driver\_installer\_for\_windows.exe](https://www.nooelec.com/store/downloads/dl/file/id/56/product/204/nesdr\_driver\_installer\_for\_windows.exe)
 3. Select 'Yes' to allow Zadig to check for application updates online.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="images/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. Select 'Options' then 'List All Devices'
 
-<figure><img src="../../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="images/image (74).png" alt=""><figcaption></figcaption></figure>
 
 5. Select the option 'Bulk-In, Interface (Interface 0)' or the correct device which may vary. Consult the driver installation documentation for further details. If the USB ID starts with 'OBDA' you have likely selected the correct device. Then click on the 'Install Driver' button.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="images/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 6. You should see the 'Installing Driver' window popup.&#x20;
 
