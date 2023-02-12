@@ -19,7 +19,7 @@ In this guide I will walk through the setup and installation of drivers and soft
 
 <figure><img src="images/image (74).png" alt=""><figcaption></figcaption></figure>
 
-5. Select the option `Bulk-In, Interface (Interface 0)` or the correct device which may vary. Consult the driver installation documentation for further details. If the USB ID starts with `OBDA` you have likely selected the correct device. Then click on the `Install Driver` button.&#x20;
+5. Select the option `Bulk-In, Interface (Interface 0)` or the correct device which may vary. Consult the driver installation documentation for further details. If the `USB ID` starts with `OBDA` you have likely selected the correct device. Then click on the `Install Driver` button.&#x20;
 
 <figure><img src="images/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
