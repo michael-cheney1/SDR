@@ -8,7 +8,7 @@ In this guide I will walk through the setup and installation of drivers and soft
 
 1. Plug in the device and open Device Manager, you should see 2 devices listed similar to the picture below.
 
-<figure><img src="../../../.gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="images/image (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 2. Download and run the file [https://www.nooelec.com/store/downloads/dl/file/id/56/product/204/nesdr\_driver\_installer\_for\_windows.exe](https://www.nooelec.com/store/downloads/dl/file/id/56/product/204/nesdr\_driver\_installer\_for\_windows.exe)
 3. Select 'Yes' to allow Zadig to check for application updates online.&#x20;
