@@ -2,7 +2,7 @@
 
 ## Summary
 
-In this guide I will walk through the setup and installation of drivers and software required to allow a NooElec NESDR Mini 2 SDR to visually track local aircraft. The installation was completed on Windows 10 Pro 22H2. There is nothing new in this guide as this has been done by many other people in the past the intention of this guide is to consolidate the information I gathered from a few different sources into a start to finish guide which should hopefully cover everything that is required from driver installation to software installation and configuration. The NooElec NESDR Mini 2 SDR is a cheap Software Defined Radio that was purchased from Amazon for $28 usd. 
+In this guide I will walk through the setup and installation of drivers and software required to allow a NooElec NESDR Mini 2 SDR to visually track local aircraft. The installation was completed on Windows 10 Pro 22H2. There is nothing new in this guide as this has been done by many other people in the past the intention of this guide is to consolidate the information I gathered from a few different sources into a start to finish guide which should hopefully cover everything that is required from driver installation to software installation and configuration. The NooElec NESDR Mini 2 SDR is a cheap Software Defined Radio that was purchased from Amazon for $28 USD. 
 
 ## Driver Installation
 
