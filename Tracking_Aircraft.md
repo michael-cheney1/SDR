@@ -39,11 +39,11 @@ In this guide I will walk through the setup and installation of drivers and soft
 
 1. Download the file. [https://www.jetvision.de/manuals/rtl1090a.zip](https://www.jetvision.de/manuals/rtl1090a.zip) then extract the contents of the zip file.&#x20;
 2. Download the file. [https://osmocom.org/attachments/download/2242/RelWithDebInfo.zip](https://osmocom.org/attachments/download/2242/RelWithDebInfo.zip) then extract the contents of the zip file.&#x20;
-3. In the folder where you extracted the contents of the RelWithDebInfo.zip file navigate to the x32 subfolder and copy the files rtlsdr.dll & libusb-1.0.dll. Hold the ctrl key and select both files then right click and select 'copy'.
+3. In the folder where you extracted the contents of the `RelWithDebInfo.zip` file navigate to the x32 subfolder and copy the files `rtlsdr.dll` & `libusb-1.0.dll`. Hold the ctrl key and select both files then right click and select 'copy'.
 
 <figure><img src="images/image (18).png" alt=""><figcaption></figcaption></figure>
 
-&#x20;4\. In the folder where rtl1090a.zip was extracted right click and select paste.&#x20;
+&#x20;4\. In the folder where `rtl1090a.zip` was extracted right click and select paste.&#x20;
 
 <figure><img src="images/image (79).png" alt=""><figcaption></figcaption></figure>
 
@@ -51,7 +51,7 @@ In this guide I will walk through the setup and installation of drivers and soft
 
 <figure><img src="images/image (1).png" alt=""><figcaption></figcaption></figure>
 
-6. You can now start the rtl1090.exe file and you should see the application popup like below.&#x20;
+6. You can now start the `rtl1090.exe` file and you should see the application popup like below.&#x20;
 
 <figure><img src="images/image (88).png" alt=""><figcaption></figcaption></figure>
 
