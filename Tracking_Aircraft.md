@@ -27,7 +27,7 @@ In this guide I will walk through the setup and installation of drivers and soft
 
 <figure><img src="images/image (3).png" alt=""><figcaption></figcaption></figure>
 
-7. After a short amount of time you should see a popup to confirm the driver installation was successful.&#x20;
+7. After a short amount of time you should see a popup to confirm the driver installation was successful. Click `Close`&#x20;
 
 <figure><img src="images/image (75).png" alt=""><figcaption></figcaption></figure>
 
